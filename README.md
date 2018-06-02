@@ -1,4 +1,4 @@
-###Getting and Cleaning Data - Course Project
+#Getting and Cleaning Data - Course Project
 
 This is my answer for the course project of the Getting and Cleaning Data Coursera course. The R script, run_analysis.R can be run as long as the Samsung data is in your working directory. It works in next steps:
 
